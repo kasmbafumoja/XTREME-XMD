@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~r9RSkbKZ#L1F5dvdxDs8HKFnM90gFhphwNSuzQqe0tqR48egWwuc",
+SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~7koiCRoB#TCqWM7RTCSEuonT9qs1SlXFi5Ldu2tlREcRVsmM6AeA",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -15,7 +15,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 //anticall on/off
    ANTI_CALL: process.env.ANTI_CALL || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY BM PRESSAGE 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY IR CHADRACK 🤍*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -40,7 +40,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "𝐗𝐓𝐑𝐄𝐌𝐄 𝐗𝐌𝐃",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "༄☥🤴🏽᪳𝗝𝐔፝֟𝐒𝚻𝚵🌹᪳𝚸፝֟𝐑𝚰𝚴𝐂𝚵™☘️᪳࿐",
+STICKER_NAME: process.env.STICKER_NAME || "༄☥🤴🏽᪳𝗝𝐔፝֟𝐒𝚻 kas™☘️᪳࿐",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
